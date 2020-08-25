@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there :v:
+I'm Talal. I'm a software engineer building Spatial Computing (aka. XR, aka. AR/MR/VR :smirk:) tools and learning experiences. I've worked in this space for the past 6 years in both industry and academic settings. Currently helping faculty at the University of Michigan integrate Spatial Computing into their classrooms. :raised_hands:
+
+### :mag: Currently working on ...
+
+- Remote design-ethnography facilitation using hand-tracked VR
+- Hand interaction techniques for 3D model viewing
+
+<img src="https://media.giphy.com/media/XDS8DmFHyBvJ9Mfgn7/giphy.gif" width=400 align=center>
+
+- Hesitantly :sunglasses: trying to keep 3DOF VR [alive](https://talothman.github.io/blog/Building-Efficient-Manipulation-Interactions-for-3DOF-Virtual-Reality-Controllers-Pt-1) by building robust manipulation techniques
+
+<img src="https://media.giphy.com/media/RIedOjXcjjS59sY6vY/giphy.gif" width=400 align=center>
 
 <!--
 **talothman/talothman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
